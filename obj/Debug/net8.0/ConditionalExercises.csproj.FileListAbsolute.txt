@@ -1,0 +1,14 @@
+C:\Users\danan\RiderProjects\ConditionalExercises\ConditionalExercises\obj\Debug\net8.0\ConditionalExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danan\RiderProjects\ConditionalExercises\ConditionalExercises\obj\Debug\net8.0\ConditionalExercises.AssemblyInfoInputs.cache
+C:\Users\danan\RiderProjects\ConditionalExercises\ConditionalExercises\obj\Debug\net8.0\ConditionalExercises.AssemblyInfo.cs
+C:\Users\danan\RiderProjects\ConditionalExercises\ConditionalExercises\obj\Debug\net8.0\ConditionalExercises.csproj.CoreCompileInputs.cache
+C:\Users\danan\RiderProjects\ConditionalExercises\ConditionalExercises\bin\Debug\net8.0\ConditionalExercises.exe
+C:\Users\danan\RiderProjects\ConditionalExercises\ConditionalExercises\bin\Debug\net8.0\ConditionalExercises.deps.json
+C:\Users\danan\RiderProjects\ConditionalExercises\ConditionalExercises\bin\Debug\net8.0\ConditionalExercises.runtimeconfig.json
+C:\Users\danan\RiderProjects\ConditionalExercises\ConditionalExercises\bin\Debug\net8.0\ConditionalExercises.dll
+C:\Users\danan\RiderProjects\ConditionalExercises\ConditionalExercises\bin\Debug\net8.0\ConditionalExercises.pdb
+C:\Users\danan\RiderProjects\ConditionalExercises\ConditionalExercises\obj\Debug\net8.0\ConditionalExercises.dll
+C:\Users\danan\RiderProjects\ConditionalExercises\ConditionalExercises\obj\Debug\net8.0\refint\ConditionalExercises.dll
+C:\Users\danan\RiderProjects\ConditionalExercises\ConditionalExercises\obj\Debug\net8.0\ConditionalExercises.pdb
+C:\Users\danan\RiderProjects\ConditionalExercises\ConditionalExercises\obj\Debug\net8.0\ConditionalExercises.genruntimeconfig.cache
+C:\Users\danan\RiderProjects\ConditionalExercises\ConditionalExercises\obj\Debug\net8.0\ref\ConditionalExercises.dll
